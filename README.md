@@ -2,7 +2,7 @@
 Quantum conditional generative adversarial network based on patch method for abnormal electrocardiogram generation
 
 ## Dataset
-The original heartbeat data is from https://physionet.org/about/database/
+The original heartbeat data is from https://physionet.org/about/database/ \n
 ECGDataPropcess.py is used for heartbeat preprocessing: Denoising and Fragment.
 
 ## Deep CNN
