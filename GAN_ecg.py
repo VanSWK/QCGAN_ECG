@@ -1,4 +1,3 @@
-# 两个周期，64维，D、G是量子，Strong纠缠门，K步D，1步G
 import math
 import random
 import numpy as np
