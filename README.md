@@ -7,3 +7,6 @@ ECGDataPropcess.py is used for heartbeat preprocessing: Denoising and Fragment.
 
 ## Deep CNN
 A deep convolutional neural network used to detect the generated ECG signals.
+
+## GAN_ecg
+The generation model, to be continued.
